@@ -1,0 +1,1 @@
+In Minotaur party, i made it so when a servant would pull a present out of the bag they would automatically place it into the chain, they would then automatically remove it and write a thank you note to ensure that there werent more thank you notes than presents or vise versa.
